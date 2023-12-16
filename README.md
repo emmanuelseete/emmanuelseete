@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🔭 I’m interested in learning new things
 - 🌱 I’m currently learning github, rust, python, and other interesting things to learn
 - 👯 I’m looking to collaborate on open-source projects
-- 📫 How to reach me hello@seete.dev
+- 📫 How to reach me [hello@seete.dev](mailto:hello@seete.dev)
